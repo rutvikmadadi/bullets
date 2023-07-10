@@ -1,0 +1,173 @@
+body
+{
+    background-color:lightblue ;
+    font-family: 'Pacifico', cursive;
+}
+h1
+{
+    width: 100%;
+    border:20px black;
+    padding: 2px;
+    margin: 20px;
+}
+.aahan
+{
+    width: 220px; 
+    height: 220px;
+    float: left;
+    border:19px blue;
+    padding: 1px;
+    margin: 60px;
+}
+.pic
+{
+ width: 200px;
+ height: 200px;
+}
+.J
+{
+    width: 200px;
+    height: 200px;
+    float: left;
+    border:19px blue;
+    padding: 1px;
+    margin: 60px;
+}
+.pic2
+{
+    width: 200px;
+    height: 200px;
+}
+.krishay
+{
+    width: 200px;
+    height: 220px;
+    float: left;
+    border:19px blue;
+    padding: 1px;
+    margin: 60px;
+}
+.pic3
+{
+    width: 200px;
+    height: 200px;
+}
+.palaksh
+{
+    width: 200px;
+    height: 200px;
+    float: left;
+    border:19px blue;
+    padding: 1px;
+    margin: 60px;
+}
+.pic4
+{
+    width: 200px;
+    height: 200px;
+}
+.rud
+{
+    width: 200px;
+    height: 200px;
+    float: left;
+    border:19px blue;
+    padding: 1px;
+    margin: 60px;
+}
+.pic5
+{
+    width: 200px;
+    height: 200px;
+}
+.rut
+{
+    width: 200px;
+    height: 200px;
+    float: left;
+    border:19px blue;
+    padding: 1px;
+    margin: 60px;
+}
+.pic6
+{
+    width: 200px;
+    height: 200px;
+}
+.chow
+{
+    width: 200px;
+    height: 200px;
+    float: left;
+    border:19px blue;
+    padding: 1px;
+    margin: 60px;
+}
+.pic7
+{
+    width: 200px;
+    height: 200px;
+}
+.shubh
+{
+    width: 200px;
+    height: 200px;
+    float: left;
+    border:19px blue;
+    padding: 1px;
+    margin: 60px;
+}
+.pic8
+{
+    width: 200px;
+    height: 200px;
+}
+.viv
+{
+    width: 200px;
+    height: 200px;
+    float: left;
+    border:19px blue;
+    padding: 1px;
+    margin: 60px;
+}
+.druv
+{
+    width: 200px;
+    height: 200px;
+    float: left;
+    border:19px blue;
+    padding: 1px;
+    margin: 60px;
+}
+.profile
+{
+  background-color:azure;
+  color: white;
+  border-radius: 10px; 
+  width: 200px;
+  height: 25px;
+  font-size: large;
+}
+.coachniket
+{
+    width: 200px;
+    height: 300px;
+    padding: 1px;
+    margin: 60px;
+}
+.coachsubhash
+{
+    width: 200px;
+    height: 200px;
+    padding: 1px;
+    margin: 60px;
+}
+#logo
+{
+    float: left;
+}
+#menu
+{
+    float: right;
+}
